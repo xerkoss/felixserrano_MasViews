@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Mas Views</string>
+    <string name="number">Introduce un numero</string>
+    <string name="result">Resultado</string>
 </resources>
